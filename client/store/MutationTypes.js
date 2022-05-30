@@ -1,0 +1,5 @@
+export default {
+  SET_NAME: 'SET_NAME',
+  SET_SOCKET: 'SET_SOCKET',
+  PUSH_MESSAGE: 'PUSH_MESSAGE',
+}
